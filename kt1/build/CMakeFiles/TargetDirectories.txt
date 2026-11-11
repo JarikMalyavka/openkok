@@ -1,0 +1,7 @@
+/home/zovlinux/kt1/build/CMakeFiles/kt1.dir
+/home/zovlinux/kt1/build/CMakeFiles/edit_cache.dir
+/home/zovlinux/kt1/build/CMakeFiles/rebuild_cache.dir
+/home/zovlinux/kt1/build/CMakeFiles/list_install_components.dir
+/home/zovlinux/kt1/build/CMakeFiles/install.dir
+/home/zovlinux/kt1/build/CMakeFiles/install/local.dir
+/home/zovlinux/kt1/build/CMakeFiles/install/strip.dir

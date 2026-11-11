@@ -1,0 +1,307 @@
+{
+	"abstract" : true,
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_pkg_create_imp_target",
+			"_pkg_recalculate",
+			"pkg_check_modules",
+			"set_property"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake/Modules/FindPkgConfig.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1174,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 813,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 787,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 794,
+				"parent" : 3
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "PkgConfig::OPENCV::@6890427a1f51a3e7e1df",
+	"imported" : true,
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_stitching.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_alphamat.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_bgsegm.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_bioinspired.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_ccalib.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_cvv.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_dnn_objdetect.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_dnn_superres.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_dpm.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_face.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_freetype.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_fuzzy.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_gapi.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_hdf.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_hfs.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_img_hash.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_intensity_transform.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_line_descriptor.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_quality.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_rapid.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_reg.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_rgbd.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_ptcloud.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_saliency.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_signal.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_structured_light.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_calib.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_phase_unwrapping.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_superres.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_optflow.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_surface_matching.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_videostab.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_viz.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_wechat_qrcode.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_objdetect.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_xfeatures2d.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_shape.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_ximgproc.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_xobjdetect.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_xphoto.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_photo.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_xstereo.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_tracking.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_highgui.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_datasets.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_videoio.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_video.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_text.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_imgcodecs.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_features.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_dnn.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_stereo.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_plot.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_ml.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_imgproc.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_geometry.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_flann.so"
+		},
+		{
+			"backtrace" : 5,
+			"fragment" : "/usr/lib/libopencv_core.so"
+		}
+	],
+	"local" : true,
+	"name" : "PkgConfig::OPENCV",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}
