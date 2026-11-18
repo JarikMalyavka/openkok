@@ -1,0 +1,7 @@
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/lastopenkokkt.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/edit_cache.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/rebuild_cache.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/list_install_components.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/install.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/install/local.dir
+/home/zovlinux/c++/lastopenkokkt/build/CMakeFiles/install/strip.dir
